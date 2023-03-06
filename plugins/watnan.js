@@ -1,0 +1,1 @@
+https://api.lolhuman.xyz/api/superhero?apikey=sgwn&query=batman
